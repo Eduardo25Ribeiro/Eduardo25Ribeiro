@@ -16,9 +16,9 @@
 ## Estatísticas e Linguagens
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo23Ribeiro&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo25Ribeiro&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&hide_border=true" />
   
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo23Ribeiro&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&langs_count=6" />
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo25Ribeiro&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&langs_count=6" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Email-79C0FF?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="https://github.com/Eduardo23Ribeiro">
+  <a href="https://github.com/Eduardo25Ribeiro">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
