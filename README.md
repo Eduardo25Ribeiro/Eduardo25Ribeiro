@@ -16,9 +16,9 @@
 ## Estatísticas e Linguagens
 
 <div align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduado25ribeiro&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=eduardo25ribeiro&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&hide_border=true" />
   
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduado25ribeiro&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eduardo25ribeiro&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&langs_count=6" />
 </div>
 ---
 
